@@ -3,7 +3,7 @@ module Players
     # your code here
 
     def move(board)
-      (rand() * 9).floor.to_s
+      # (rand() * 9).floor.to_s
     end
 
   end
